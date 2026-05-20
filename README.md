@@ -1,0 +1,1 @@
+The idea of the game is to make a full-fledged clicker with the lowest possible application weight. At the moment, there is gameplay, pumping planets and a visual in the form of flying stars. Application weight 19.5 kB
