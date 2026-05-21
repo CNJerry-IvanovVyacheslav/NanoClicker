@@ -2,6 +2,8 @@
 
 A hyper-optimized, zero-dependency cosmic incremental game built entirely on low-level Android APIs, manual physics, and runtime procedural generation. The final compiled and optimized Release APK occupies exactly **27.5 KB** of storage space.
 
+<img src="https://github.com/CNJerry-IvanovVyacheslav/NanoClicker/blob/be80b94dfa5eab1c8c65de0e629c81fd37ad4044/screenshots/photo_1_2026-05-21_11-18-49.jpg" width="250">///<img src="https://github.com/CNJerry-IvanovVyacheslav/NanoClicker/blob/be80b94dfa5eab1c8c65de0e629c81fd37ad4044/screenshots/photo_2_2026-05-21_11-18-49.jpg" width="250">
+
 ## Engineering Philosophy & Constraints
 
 Modern mobile development often suffers from severe framework overhead. `NanoClicker` serves as a proof of concept demonstrating that deep graphical, auditory, and persistence mechanics can be achieved within extreme binary size boundaries by bypassing high-level abstraction layers (such as Jetpack Compose, XML layouts, Room, or MediaPlayer) and interacting directly with core platform subsystems.
