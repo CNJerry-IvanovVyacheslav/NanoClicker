@@ -1,6 +1,6 @@
 # NanoClicker
 
-A hyper-optimized, zero-dependency cosmic incremental game built entirely on low-level Android APIs, manual physics, and runtime procedural generation. The final compiled and optimized Release APK occupies exactly **28.1 KB** of storage space.
+A hyper-optimized, zero-dependency cosmic incremental game built entirely on low-level Android APIs, manual physics, and runtime procedural generation. The final compiled and optimized Release APK occupies exactly **27.5 KB** of storage space.
 
 ## Engineering Philosophy & Constraints
 
